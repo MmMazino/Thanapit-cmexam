@@ -1,0 +1,19 @@
+.table-data {
+    padding:10px;
+    margin:10px auto 10px auto;
+    width:100%;
+}
+
+.table-title {
+    border-bottom:2px solid gray;
+    background-color: gray;
+    color: white;
+}
+
+.table-boder {
+    border: 1px solid #ddd;
+}
+
+.text-center {
+    text-align: center;
+}
